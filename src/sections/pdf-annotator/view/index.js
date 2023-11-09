@@ -1,0 +1,1 @@
+export { default as PDFAnnotatorView } from './pdf-annotator-view';
